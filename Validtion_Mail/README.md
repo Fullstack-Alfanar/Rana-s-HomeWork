@@ -4,8 +4,6 @@
 
 ### local@Domain
 
-# Description
-
 ## We have Two files
 
 ### HTML & JAVA SCRIPT
