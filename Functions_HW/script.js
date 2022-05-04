@@ -11,7 +11,7 @@
 // }
 // alert(names1[j]);
 //------------------------------------------------------------------------------
-// //this is question 2
+//this is question 2
 // var fruits=["Mango","Pear","Apple","Banana"];
 // console.log(fruits[0]);
 // console.log(fruits[1]);
